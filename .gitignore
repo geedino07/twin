@@ -1,0 +1,52 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
+*.tfvars.secret
+terraform.tfvars
+
+
+# Lambda packages
+lambda-deployment.zip
+lambda-deployment-nova.zip
+lambda-deployment-openai.zip
+lambda-package/
+lambda-package-nova/
+lambda-package-openai/
+
+backend/deploy_original.py
+backend/deploy_nova_openai.py
+backend/server_openai.py
+backend/server_nova.py
+
+# Memory storage (contains conversation history)
+memory/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+out/
+.next/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# AWS
+.aws/

@@ -1,0 +1,22 @@
+{
+    "full_name": "Gerald Okeke",
+    "name": "Gerald",
+    "current_role": "AI/ML Engineer",
+    "location": "Abuja, Nigeria",
+    "email": "okekegerald@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/gerald-nwogbo-okeke/",
+    "specialties": [
+      "AI/ML Engineering",
+      "Fullstack Development",
+      "DevOps",
+      "Data Engineering"
+    ],
+    "years_experience": 12,
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "Federal University of Technology, Owerri",
+        "year": "2010"
+      }
+    ]
+  }
